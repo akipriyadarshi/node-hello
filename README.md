@@ -1,7 +1,7 @@
 # Node Hello World
 
 <<<<<<< HEAD
-Simple node.js app that servers "hello world" using jenkins
+Simple node.js app that servers "hello world"
 =======
 Simple node.js app that servers "hello world" using jenkins tool
 >>>>>>> 7306dbf1d00c4c6e5e9bf582e1b13e2bab91f041
